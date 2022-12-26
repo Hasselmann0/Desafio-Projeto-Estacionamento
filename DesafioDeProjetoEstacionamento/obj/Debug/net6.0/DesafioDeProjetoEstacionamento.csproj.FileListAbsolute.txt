@@ -1,0 +1,15 @@
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\bin\Debug\net6.0\DesafioDeProjetoEstacionamento.exe
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\bin\Debug\net6.0\DesafioDeProjetoEstacionamento.deps.json
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\bin\Debug\net6.0\DesafioDeProjetoEstacionamento.runtimeconfig.json
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\bin\Debug\net6.0\DesafioDeProjetoEstacionamento.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\bin\Debug\net6.0\DesafioDeProjetoEstacionamento.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.AssemblyInfo.cs
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\refint\DesafioDeProjetoEstacionamento.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\DesafioDeProjetoEstacionamento.genruntimeconfig.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioDeProjetoEstacionamento\DesafioDeProjetoEstacionamento\obj\Debug\net6.0\ref\DesafioDeProjetoEstacionamento.dll
